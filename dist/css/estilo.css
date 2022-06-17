@@ -1,0 +1,10 @@
+.perfil{
+    text-align: center;
+}
+.perfil img{
+    width: 150px;
+    border-radius: 100%;
+}
+.perfil h3{
+    font-size: 40px;
+}
